@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox
 from tkinter.scrolledtext import ScrolledText
 import subprocess
 import threading
-import
+
 
 job_list = []
 
